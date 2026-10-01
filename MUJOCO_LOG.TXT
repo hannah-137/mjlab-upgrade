@@ -1,0 +1,10 @@
+WARNING Wed Sep 30 15:29:19 2026: Attach conflict when attaching 'leap_rh', policy is 'warning'
+impratio: parent has 1 (default), child has 100, keeping parent value
+integrator: parent has 0 (default), child has 3, keeping parent value
+cone: parent has 0 (default), child has 1, keeping parent value
+
+WARNING Wed Sep 30 15:32:07 2026: Attach conflict when attaching 'leap_rh', policy is 'warning'
+impratio: parent has 1 (default), child has 100, keeping parent value
+integrator: parent has 0 (default), child has 3, keeping parent value
+cone: parent has 0 (default), child has 1, keeping parent value
+
